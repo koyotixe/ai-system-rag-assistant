@@ -54,3 +54,13 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Aider
+.aider*
+
+# Lab files (personal)
+prompt.md
+lab2_requirements.md
+ËÐ 2.*.docx
+ËÐ 2.*.txt
+~$*
